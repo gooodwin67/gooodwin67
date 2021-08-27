@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Andrey Aleynik
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning HTML, CSS, JS, React, React Native
+- 💞️ I dream of GameDev, but now i learning Web and mobile development
+- 📫 How to reach me: mail: sn67@inbox.ru
