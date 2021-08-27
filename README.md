@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andrey Aleynik
+- 👋 Hi, I’m Andrey Aleynik from Russia
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning HTML, CSS, JS, React, React Native
 - 💞️ I dream of GameDev, but now i learning Web and mobile development
