@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrey Aleynik from Russia
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML, CSS, JS, React, React Native
+- 🌱 I’m currently learning HTML, CSS, JS, React, Dart, Flutter
 - 💞️ I dream of GameDev, but now i learning Web and mobile development
 - 📫 How to reach me: mail: sn67@inbox.ru
